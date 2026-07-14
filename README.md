@@ -17,7 +17,7 @@ Open to full-time roles and to freelance work.
 
 **I design at AI speed, and I can show the method.** The EF Impact Library was a multi-page portal that I designed in six days, against eight source documents that kept changing every few days. Claude Code and the Figma MCP carried the production work. The document-driven loop I ran it on is the part worth copying.
 
-**I build what I design.** My graphic portfolio site is hand-coded, with no framework, and it runs on Cloudflare Pages. The FoodCare case study in this profile ends in a working HTML, CSS and JS prototype you can open in a browser.
+**I build what I design.** My graphic portfolio site is hand-coded, with no framework, and it runs on Cloudflare Pages. The FoodCare case study ends in a coded prototype you can [open and click through right now](https://dianature.github.io/foodcare-case-study/prototype/FoodCare.dc.html).
 
 **I work in complicated, multi-role systems.** For the Journalism Trust Initiative I redesigned a certification platform used by 1,700 media outlets across 85 countries, where people were dropping out mid-certification because they could not tell what state they were in. For the UNESCO MAB platform I mapped a nine-step approval process across four roles and 100 countries, on a no-code build with almost no UI flexibility. Constraints like that are normal in my work.
 
@@ -33,7 +33,7 @@ Open to full-time roles and to freelance work.
 
 | | |
 |---|---|
-| [**FoodCare**](https://github.com/dianature/foodcare-case-study) | A recipe app for caregivers. The brief asked for a recipe app for people 20 to 35, and 14 interviews said that was the wrong product. Research, strategy, 18 hi-fi screens, a design system, and a wired prototype. |
+| [**FoodCare**](https://github.com/dianature/foodcare-case-study) | A recipe app for caregivers. The brief asked for a recipe app for people 20 to 35, and 14 interviews said that was the wrong product. Research, strategy, 18 hi-fi screens, a design system, and a prototype you can [open in the browser](https://dianature.github.io/foodcare-case-study/prototype/FoodCare.dc.html). |
 | [**voice-applier**](https://github.com/dianature/voice-applier) | A Claude Code skill that strips the structural tells out of AI-written prose. The tells sit in the architecture, so word-level fixes never remove them. |
 | **Client work** | UNESCO, the Journalism Trust Initiative, GIZ GovStack, IQTIG and Geneva Call, through Relief Applications. Covered in the UX portfolio above. |
 | **Academic** | A multimodal voice and gesture study with Mercedes-Benz, and a personal finance feature for K&H Bank, both at MOME. MindCare, a PTSD therapy companion, grounded in clinical EMDR literature. |
